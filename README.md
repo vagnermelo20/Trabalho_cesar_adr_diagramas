@@ -63,7 +63,7 @@ A FortunaTech decidiu adotar e integrar sua plataforma com o ecossistema do Open
 
 ## diagrama de classes
 
-![image](https://github.com/user-attachments/assets/7a85cc7d-3cba-4c94-aee9-08656674bfd7)
+![image](https://github.com/user-attachments/assets/4a003d17-062b-4f4d-bffe-9ed526dad249)
 
 ## diagrama de componentes
 
